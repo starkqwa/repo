@@ -1,1 +1,1 @@
-simple-python-project 
+A simple Python project for beginners
